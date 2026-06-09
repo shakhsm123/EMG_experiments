@@ -8,7 +8,7 @@ A machine learning pipeline for classifying human gait activity (walking vs runn
 
 The figure below shows a single 1-second window of preprocessed EMG from all 10 muscle channels for the same subject — walking (blue) vs running (red). The amplitude and burst density differences are clearly visible, particularly in the Rectus Femoris, Biceps Femoris, and Gastrocnemius channels.
 
-![Walking vs Running EMG](walk_vs_run_p1.png)
+![Walking vs Running EMG](running_vs_walking.png)
 
 ---
 
